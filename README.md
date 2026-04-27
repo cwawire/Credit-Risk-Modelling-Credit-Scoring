@@ -139,15 +139,18 @@ This system can support:
 
 ---
 
-## Project Structure
+### Project Structure
 
+```text
 credit-risk-modelling/
 │
 ├── notebooks/
-│ └── credit_risk_model.ipynb
+│   └── credit_risk_model.ipynb
 ├── data/
 ├── README.md
 └── requirements.txt
+```
+
 
 
 ---
